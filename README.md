@@ -1,6 +1,6 @@
 # film-companion
 
-A [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code/skills) that makes films more rewarding to watch. It runs in two modes — one for before you watch, one for after — and selects only the lenses that actually fit the specific film.
+A [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code/skills) that helps a film viewer get more value from any given film. It runs in two modes — one for before you watch which contains no spoilters, and one for after you watch to tell you what you might have missed.
 
 ## What it does
 
@@ -47,18 +47,6 @@ git clone https://github.com/yourusername/claude-skill--film-companion .claude/s
 
 After installing, restart Claude Code (or reload the window) so it picks up the new skill.
 
-## Project structure
-
-```
-film-companion/
-├── SKILL.md                          # Skill definition and instructions
-└── examples/
-    ├── sunrise-1927-pre-viewing.md   # Pre-viewing mode reference example
-    └── sunrise-1927-post-viewing.md  # Post-viewing mode reference example
-```
-
-Both examples use F.W. Murnau's *Sunrise* (1927) so the two modes can be compared directly against the same film. When generating output, the skill reads the relevant example to calibrate tone, depth, and prose texture before drafting.
-
 ## Examples
 
 The [`examples/`](examples/) directory contains worked output for *Sunrise: A Song of Two Humans* (1927):
@@ -72,4 +60,4 @@ Example filenames follow the pattern `title-slug-year-mode.md` (e.g., `vertigo-1
 
 ## License
 
-MIT
+Apache 2.0
