@@ -1,5 +1,13 @@
 # *Sunrise: A Song of Two Humans* (1927), dir. F.W. Murnau
 
+| | |
+|---|---|
+| **Director** | F.W. Murnau |
+| **Year** | 1927 |
+| **Runtime** | 94 min (Movietone version) |
+| **Language** | Silent (English intertitles) |
+| **Rating** | Not rated |
+
 You're about to watch one of the genuinely great ones — Murnau's first American film. Here's the context that will heighten it without spoiling anything.
 
 **Which version to watch, and where.** Don't watch whatever low-res copy turns up first — the version matters here more than usual. The original Fox **Movietone version** (~94 min, 1.20:1 aspect ratio) is the one to seek: it carries Murnau's intended synchronized score and sound effects, the thing that made the film a 1927 sensation. There's a complication worth knowing — the original Movietone negative was destroyed in a 1937 vault fire, so every modern transfer is restored from a surviving print, and a little print damage is inherent to even the best version (the restorers deliberately left it rather than scrub away the film's soft, hand-worked texture). A second cut exists: a silent **"European"/Czech version** (~79 min), rediscovered later, slightly wider in frame with different takes of largely the same scenes. It's a fascinating comparison object but not your first watch. The benchmark home release is the Masters of Cinema / Eureka Blu-ray (and the Fox disc in the US), which carries both versions; on score, the original 1927 Hugo Riesenfeld Movietone track is the authentic choice, with Timothy Brock's later Olympia Chamber Orchestra recording as a fuller-sounding alternative. For streaming, availability shifts constantly and is region-dependent — check a live aggregator like JustWatch or Reelgood the day you watch rather than trusting a fixed answer, and if you have a US public-library card, Kanopy is the most likely place to find a quality transfer at no cost. (Note the title collision: there's a 2024 thriller also called *Sunrise* — make sure you're cueing up the 1927 Murnau.)
